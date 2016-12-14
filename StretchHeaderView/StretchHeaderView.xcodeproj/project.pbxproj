@@ -420,6 +420,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StretchHeaderView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = coolpeng.StretchHeaderView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -431,6 +432,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StretchHeaderView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = coolpeng.StretchHeaderView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -502,6 +504,7 @@
 				4C3E57CD1DE696A600F03B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C3E57CE1DE696A600F03B59 /* Build configuration list for PBXNativeTarget "StretchHeaderViewTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +513,7 @@
 				4C3E57D01DE696A600F03B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C3E57D11DE696A600F03B59 /* Build configuration list for PBXNativeTarget "StretchHeaderViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +522,7 @@
 				4C3E57D31DE696A600F03B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
